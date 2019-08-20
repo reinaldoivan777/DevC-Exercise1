@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#image-background {
+    background-image: url('./assets/image/stieglitz-4410411_1920.jpg');
+    width: 100%;
+    height: 800px;
+    object-fit: cover;
+}
+
+#image-background h1 {
+    color: #ffffff;
+}
+
+.card-padding-custom {
+    padding: 30px;
+}
+
+#biodata-position {
+    position: relative;
+    top: 180px;
+}
+
+.tambahan-iseng {
+    position: relative;
+    margin-top: 50px;
+}
+
+.subscribe {
+    position: relative;
+    height: 250px;
+    margin-top: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #000f43;
+}
